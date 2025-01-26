@@ -2,6 +2,9 @@
 
 Show jump locations of current buffer in a floating window.
 
+![image](https://github.com/user-attachments/assets/eb55c7ee-bf90-4754-b238-ea52f3eb22c1)
+
+
 ## Installation
 
 ### lazy.nvim
